@@ -1,4 +1,4 @@
-# Pasha-repository-
+# Arun-repository-
     it's my first repository 
-    Author salauddin pasha 
-      iD   115cs22020  
+    Author-Arun patil
+      iD - 115cs22005
