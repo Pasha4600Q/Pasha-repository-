@@ -1,4 +1,4 @@
-# Akash-repository-
+# Amar-repository-
     it's my first repository 
-    Author-Akash
-      iD - 115cs22001
+    Author-Amar metre
+      iD - 115cs22004
