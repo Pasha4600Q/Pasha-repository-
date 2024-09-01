@@ -1,4 +1,4 @@
-# Sangmesh -repository-
+# Akash-repository-
     it's my first repository 
-    Author-Sangmesh ullagadi
-      iD - 115cs22021
+    Author-Akash
+      iD - 115cs22001
